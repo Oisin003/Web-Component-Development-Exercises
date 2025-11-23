@@ -1,0 +1,28 @@
+{
+    "athlete": [
+        {
+            "id": 1,
+            "name": "Seamus Coleman",
+            "country": "Ireland",
+            "bio": " Ireland and Everton footballer",
+            "age": 33,
+            "pic": "coleman.png"
+        },
+        {
+            "id": 2,
+            "name": "Rafa Nadal",
+            "country": "Spain",
+            "bio": " Tennis player ",
+            "age": 30,
+            "pic": "rafa.png"
+        },
+        {
+            "id": 3,
+            "name": "Shane Lowery",
+            "country": "Ireland",
+            "bio": "Golfer from offaly",
+            "age": 35,
+            "pic": "shane.png"
+        }
+    ]
+}
